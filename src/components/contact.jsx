@@ -34,22 +34,15 @@ export default function Contact() {
         <VStack spacing={4} fontSize="md" color={text}>
           <Text>
             📧 Email:{" "}
-            <Link href="mailto:your.email@example.com" color={accent} isExternal>
-              your.email@example.com
-            </Link>
-          </Text>
-
-          <Text>
-            🐦 Twitter:{" "}
-            <Link href="https://twitter.com/yourhandle" color={accent} isExternal>
-              @yourhandle
+            <Link href="mailto:john3.washington@gmail.com" color={accent} isExternal>
+              john3.washington@gmail.com
             </Link>
           </Text>
 
           <Text>
             💼 LinkedIn:{" "}
-            <Link href="https://linkedin.com/in/yourprofile" color={accent} isExternal>
-              yourprofile
+            <Link href="https://www.linkedin.com/in/john-washington-bb697854" color={accent} isExternal>
+              Profile
             </Link>
           </Text>
         </VStack>

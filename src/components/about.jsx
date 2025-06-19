@@ -9,7 +9,7 @@ export default function About() {
       id="about"
       px={6}
       py={20}
-      bg="gray.100"
+      bg="darkgray.100"
       initial={{ opacity: 0, y: 40 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}

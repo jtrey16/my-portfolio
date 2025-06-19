@@ -15,7 +15,7 @@ const projects = [
     title: "Crypto Volatility Scanner",
     description: "A real-time bot for Hyperliquid that scans all coins for volatility breakouts and sends alerts.",
     image: "/images/project1.png", // Add your own image paths
-    link: "https://github.com/yourusername/volatility-scanner"
+    link: "https://hlscanner.netlify.app/"
   },
   {
     title: "Portfolio Website",

@@ -18,10 +18,10 @@ export default function Footer() {
     >
       <Stack direction="column" align="center" spacing={2}>
         <Text fontSize="sm" color={color}>
-          © {new Date().getFullYear()} Your Name. All rights reserved.
+          © {new Date().getFullYear()} John Washington. All rights reserved.
         </Text>
         <Link href="mailto:your.email@example.com" fontSize="sm" color="blue.500">
-          your.email@example.com
+          john3.washington@gmail.com
         </Link>
       </Stack>
     </MotionBox>
